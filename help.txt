@@ -1,0 +1,33 @@
+	CC Schedule Master Instructions
+
+In the opening window you will be prompted to enter your user type. Click on
+the option that describes your position.
+
+ADMINISTRATOR: If you are an administrator, you should now have the option 
+to enter a .txt file containing past point distributions of CC courses. 
+Press "Upload" and select the file you want to choose. Your information will be saved to the 
+database.
+
+STUDENT: If you are a student, you should now be prompted to enter your
+Colorado College ID number. Type in your code and press "Enter." This will
+bring you to a new window where you can browse courses and select point 
+distributions.
+
+Once you are in the student window, you may begin entering CRNs to select
+courses. Be sure to press "return" on your keyboard after typing in the
+number. If you do not know the CRN of the course you are looking for you
+use the browse or filter features to find it.
+
+After you have selected four courses you may use the distribute points 
+button and drop down menu to have the program assign point values for you.
+If you are using the ranking method you should assign your courses rankings
+before distributing points.
+Notice that you may still have points remaining. If this is the case, it is
+recommended to manually increase the point values as you see fit.
+
+Once points have been assigned you have the option to save your schedule. To
+do this, press "Save."
+
+RETURNING STUDENT: If you are a returning student, you have the option to 
+retrieve schedules you've created in the past. First select the version 
+number you'd like from the drop down menu, then press "Retrieve."
